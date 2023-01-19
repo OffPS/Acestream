@@ -53,6 +53,10 @@ acestream://1104426e14b649eb23fee16698768544285de478
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 MultiAudio
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 MultiAudio 2
+acestream://feb117d613c6bd1960e1cb48d2b027452fc5c065
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 MultiAudio 3
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 1080
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 720
