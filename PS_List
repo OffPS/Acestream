@@ -61,12 +61,8 @@ acestream://feb117d613c6bd1960e1cb48d2b027452fc5c065
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 1080
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 1080 2
-acestream://18f6a6d2f12af51f1ce4f6c9af0752fa0ff74c5b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES", M.L. Campeones 720 2
-acestream://efb3b318c80101633250dbc92d442d391dcc7b19
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES2", M.L. Campeones 2 1080
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES2", M.L. Campeones 2 720
@@ -94,10 +90,14 @@ acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar LCAMPEONES" tvg-id="M+LCAMPEONES12", M.L. Campeones 12 SD
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar Deportes" tvg-id="M+ #VAMOS", #Vamos 720
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar Deportes" tvg-id="M+ #VAMOSHD", #Vamos 1080
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar Deportes" tvg-id="M+ #VAMOSHD", #Vamos 1080 2
+acestream://18f6a6d2f12af51f1ce4f6c9af0752fa0ff74c5b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar Deportes" tvg-id="M+ #VAMOS", #Vamos 720
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar Deportes" tvg-id="M+ #VAMOS", #Vamos 720 2
+acestream://efb3b318c80101633250dbc92d442d391dcc7b19
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Movistar Deportes" tvg-id="M+DEPORTESHD", M. Deportes 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
