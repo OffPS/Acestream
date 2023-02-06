@@ -6,6 +6,8 @@ acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="Movistar LALIGA" tvg-id="LALIGATV BAR", LaLiga TV 1080 MultiAudio [TEST]
 acestream://0550416ea6d64cf9669fced8ce9aea2713820f6e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar LALIGA" tvg-id="M+ LaLiga HD", M. LaLiga 4K
+acestream://acd1719e5ef4726c65b4999a914a3451723273a8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar LALIGA" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="Movistar LALIGA" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio 2
