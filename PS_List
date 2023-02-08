@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TV" tvg-id="Telecinco", Telecinco 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TV" tvg-id="La1", La1
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TV" tvg-id="La1 UHD", La1 UHD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TV" tvg-id="Telecinco HD", Telecinco 1080
 acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Mundial Clubs" tvg-id="Mundial de Clubes HD", Mundial 1080
