@@ -1,13 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TV" tvg-id="La1", La1
-acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mdGqWc/Cero.jpg" group-title="TV" tvg-id="M+ #0 HD", #0
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TV" tvg-id="La1 UHD", La1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TV" tvg-id="LA 1 HD 1080", LA 1 1080
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="TV" tvg-id="TV3 HD", TV3 1080
 acestream://8494a9c2e755292fefe4eea78acd8dc29ed1d3ab
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="TV" tvg-id="CUATRO HD", CUATRO 1080
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TV" tvg-id="Telecinco HD", Telecinco 1080
 acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2XjL04/telecinco.png" group-title="TV" tvg-id="Telencinco HD", Telecinco
+acestream://cbf281d5e481697aa4184fe1de5e069928c95057
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qxWsCP/BeMad.jpg" group-title="TV" tvg-id="BE MAD HD", BE MAD 1080
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="TV" tvg-id="TELEDEPORTE", TDP 1080 
+acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="TV" tvg-id="GOL HD", GOL TV 1080
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="Mundial Clubs" tvg-id="Mundial de Clubes HD", Mundial 1080
 acestream://b3387faf3584c9cf974cd1a00f19c055a4cd2e42
@@ -165,21 +177,6 @@ acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" group-title="EUROSPORT" tvg-id="EUROSPORT2HD", EuroSport 2 1080
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1mdGqWc/Cero.jpg" group-title="Movistar" tvg-id="M+ #0 HD", #0
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="Movistar" tvg-id="GOL HD", GOL TV 1080
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="Movistar" tvg-id="LA 1 HD 1080", LA 1 1080
-acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="Movistar" tvg-id="CUATRO HD", CUATRO 1080
-acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2XjL04/telecinco.png" group-title="Movistar" tvg-id="TELECINCO HD", TELECINCO 1080
-acestream://cbf281d5e481697aa4184fe1de5e069928c95057
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="Movistar" tvg-id="TELEDEPORTE", TDP 1080 
-acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qxWsCP/BeMad.jpg" group-title="Movistar" tvg-id="BE MAD HD", BE MAD 1080
-acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="Formula 1" tvg-id="FORMULA 1 4K - OFF",FORMULA 1 4K - OFF 
 acestream://0dcde887b5535bd4c19c8f565b945e37ffcab0ab
