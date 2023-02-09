@@ -8,6 +8,8 @@ acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="TV" tvg-id="TV3 HD", TV3 1080
 acestream://8494a9c2e755292fefe4eea78acd8dc29ed1d3ab
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="TV" tvg-id="TV3", TV3
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="TV" tvg-id="CUATRO HD", CUATRO 1080
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TV" tvg-id="Telecinco HD", Telecinco 1080
